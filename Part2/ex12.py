@@ -1,8 +1,8 @@
 def check_string(a):
     if a.startswith('The'):
-        print('Found it!')
+        return('Found it!')
     else:
-        print('Nope.')
+        return('Nope.')
 
 str1='The'
 str2='Thumbs up'

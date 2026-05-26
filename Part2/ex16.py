@@ -1,0 +1,6 @@
+print('Enter your name:')
+name = input()
+print(f'Hello, {name}!')
+print('What is your favourite food?')
+food = input()
+print(f'Hi {name}, I heard you love {food}!')
